@@ -1,0 +1,23 @@
+Naming and Self Documenting Code
+* Self document code with goog naming
+* Must begin with a letter or an underscore
+* You must not use a reserved keyword
+* Unreal's naming convention UpperCamelCase
+* Right click and "change all occurences" in VS Code to rename and replace variables everywhere in a file
+
+Variable Naming
+* Important to give your variables good names
+* Must begin with a letter or an underscore
+    * cannot start with a number
+* You must not use a reserved keyword
+* Reserved keywords are to be used by the c++ language only
+    * Over 90 keywords
+
+Self documenting code
+* Makes our code easier to read and understand
+* If we give a variable a good name, we don't hav eto use a comment to explain what it does.
+
+Unreals coding standard
+* Unreal Engine 4 uses an UpperCamelCase naming convention
+    * myVariable (bad) MyVariable (Good)
+

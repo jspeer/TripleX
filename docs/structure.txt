@@ -1,0 +1,6 @@
+The Structure of C++ by example
+* #include statements at top, before used
+* PlayGameAtDifficulty() before used
+* Everything inside a function indented
+* while and if statements extra intented
+* Colors differentiate types of text

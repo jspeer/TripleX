@@ -1,0 +1,35 @@
+Explain our main() function
+* Explain our main() function best you constants
+* Don't worry how much / little you know
+* The purpose os twofold
+* Firstly: to be brave, it counts for a lot
+* Secondly: to record your starting point
+
+My understanding of main()
+* main() is the standardized call by the compiler as the starting point of any application
+* main() is responsible for tying in the start to the rest of the application, such as any functions and external calls
+
+Specifically for the code displayed in the video
+[code]
+    int main()
+    {
+        int difficulty = 2;
+        int maxDifficuluty = 10;
+        while (difficulty <= maxDifficuluty)
+        {
+            PlayGameAtDifficulty(difficulty);
+            std::cin.clear();  // clears the failbit
+            std::cin.ignore(); // discards the buffer
+            ++difficulty;
+        }
+
+        std::cout << "WOW - You're a master hacker!\n";
+        return 0; // exit with no error code
+    }
+[/code]
+* Define starting difficulty variable as an integer with a value of 2, and maximum difficulty variable as an integer with a value of 10
+* Create a while loop with the following test. If the difficulty is less than or equal to the maximum difficulty, then proceed through the loop.
+** Call function PlayGameAtDifficulty with the parameter variable difficulty
+** The next two lines are part of std, I don't know this yet.
+** Increment difficulty by 1.
+* After the loop ends, it outputs a message then exits with error code 0, which is the standard to represent there were no errors.

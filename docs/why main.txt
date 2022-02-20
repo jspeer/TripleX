@@ -1,0 +1,16 @@
+Why int main()?
+* Every c++ program requires int main()
+* It is the starting point of a c++ program
+* Without it, your program will not build!
+
+Functions return values
+* `int main` tells that it returns an integer
+* `()` is where arguments go
+* `{}` is where the body of the function goes
+
+int main() & White Space
+* int main() required in every c++ program
+* Without int main() a c++ program will not run!
+* We return 0 to signal program has run sucessfully
+* Compiler ignores white Space
+* Code style improves readability!

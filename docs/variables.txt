@@ -1,0 +1,15 @@
+Variables
+* used to store data
+* To use variables in c++ you must first declare them in your code
+* By declaring a variable you are reserving space in the computer's memory for it
+
+Variable declaration
+int a = 0; // initialized variable
+int is data type, a is variable name, 0 is the initializing value
+* Variables can be initialized or uninitialized eg: int a;
+
+* You declare variables in code
+* A variable with a given value is initialized
+* Declaring a variable = reserved space in memory
+* You can add/multiply with arithmetic Operators
+* Print to the terminal like: std::cout << a;

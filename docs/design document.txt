@@ -1,0 +1,34 @@
+Triple X
+
+* Simple Number Puzzle Game
+* Hacking into a computer lock
+* Need to find a valid combination of codes
+* Starts pretty easy, becomes much harder
+* Wrap in your own story.
+
+SAMPLE OUTPUT OF GAME
+[code]
+    You're a secret agent breaking into a LEVEL 2 server room
+    Your SuperHacker 2000 tells you the follwing information...
+    + There are three numbers in the code
+    + The codes multiple to give 18
+    + The codes add-up to 8
+
+    Enter the three code numbers followed by x
+
+    3 3 2 x
+
+    CONGRATULATIONS, YOU'RE IN. Now hurry before anyone finds you.
+    ==============================================================
+    You're a secret agent breaking into a LEVEL 3 server room
+    Your SuperHacker 2000 tells you the follwing information...
+    + There are three numbers in the code
+    + The codes multiple to give 45
+    + The codes add-up to 11
+
+    Enter the three code numbers followed by x
+
+    4 5 6 x
+
+    BOOM :-( You failed miserably, and died horribly.
+[/code]

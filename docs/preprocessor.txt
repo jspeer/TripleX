@@ -1,0 +1,16 @@
+Preprocessor directive
+* Instructions to the compiler
+* Used to include a library before compiling
+* We want it to be at the start of our file
+* # represents preprocessor directive in our code
+
+#include <iostream>
+Preprocessor directive is to include, iostream is a headerfile
+
+* instructing the compiler to copy the contents of the iostream header file into our code before the rest of our code is compiled
+
+std::cout << "Hello, World"
+std is a namespace, :: is a scope operator, cout is defined in the std namespace
+* Namespace avoids the conflict of code being the same name!
+* << takes the thing from the right and makes it input to the thing on the left
+* "Hello World" is the string

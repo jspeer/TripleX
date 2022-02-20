@@ -1,0 +1,15 @@
+std::cout << "Hello World"
+cout = character output
+<< = insertion operator
+
+std::cin >> variable
+cin = character input
+>> = extration operator
+
+Characters like 'x' get converted to 0 with integers
+Characters like 'x' will halt cin from working until reset
+
+* We want the players to enter numbers only
+* They can enter numbers on seperate lines
+* Or the same line separated by spaces
+* We need to add a fix later in case anything other than a number gets entered & for replayability

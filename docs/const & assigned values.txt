@@ -1,0 +1,16 @@
+Variables
+* `=` is an assignment operator
+* Variables can be changed at runtime
+* After a variable has been declared, we can assign a new value to it at any point in our code
+* "A value that is subject to change"
+
+Assigning values to variables
+* We cannot assign a value to a variable before the variable has been declared
+* The compiler will not be aware that the variable exists if you try assigning to it before it's declaration
+* The compiler will not allow this!
+
+const (short for constant)
+* With the const keyword, we signal our intentions to ourselves and to anybody who reads our code:
+    "We never want this variable to change it's value after it's declaration"
+* Compiler = best friend. It protects our code.
+

@@ -1,0 +1,13 @@
+Why Triple X as your first game?
+* Learn the basics of C++ "syntax"
+* Learn about variables and constants
+* Create your own function with an argument
+* Use #include ready for Unreal
+* Learn the if and while statements
+
+Why learn C++ programming?
+* All roads lead to C++ in game development
+* You'll be learning a superpower
+* It's both high-level, and low-level
+* Join a unique tribe of power users
+* It's fun and challenging

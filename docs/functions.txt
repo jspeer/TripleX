@@ -1,0 +1,35 @@
+Functions
+* a function is a group of statements that together, performs a task and is given a name
+* Every c++ program must have at least one function
+    * main()
+
+Functions
+* \n is new line escape sequence for strings
+* You must specify the return type of a function
+* void to return no data
+* Must be implemented before it is executed
+
+Returning data from Functions
+* while loop to execute a code block repeatedly
+* ctrl-c to exit a program
+* functions that are not of type void must contain a return statement for all exit paths of the function
+* bool = true or false value
+
+Function Parameters
+* Increment variables like: ++MyVariable;
+* Think about where you declare your variables
+    * because of variable scope
+* Function parameters allow us to pass values into it
+* Passing values is known as passing an argument
+
+Comparision operators
+    equal to ==
+    not equal to !=
+    greater than >
+    less than < 
+    greater than or equal to >=
+    less than or equal to <=
+Can be used for conditions
+    * Like in while and if
+Make sure spacing is consistent
+rand() returns a value in the range of 0 and 32,767

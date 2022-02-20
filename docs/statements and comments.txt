@@ -1,0 +1,28 @@
+Statements and Comments
+* Expresion statements
+    * Expresions that end with a semicolon
+* Declaration Statmeents
+    * Statements where we declare 'something'
+* Comment like: // This is a single comment
+
+Statements
+    Preprocessor Directives
+    * Give specific instructions to the compiler, such as including files
+
+    Function Declarations
+    * The statement type that defines a function eg: int main() { }
+
+    Expression Statements
+    * These are statements that do something, or use an expression.
+
+    Declaration Statements
+    * These are definition statements.
+
+    Return Statements
+    * This is the return statement which does not have an expression, but rather returns a value of a function.
+
+Comments
+    * Commenting code can be used to make your code more easily understood by yourself or others!
+        // This is a single line comment
+        /* This is a multiline
+           comment */

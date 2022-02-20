@@ -1,0 +1,17 @@
+Using if and else in C++
+* == equality operator
+* && logical "and" operator
+* if (condition) 
+    * Executes the code block below if condition is met
+* else
+    * executes code block below if condition is NOT met
+    
+
+If statements test for a condition
+eg: if (true) { ... } or if (Variable1 == 123) { ... }
+
+* Implement an if statements
+* Enter true as the condition
+* Add a code block that prints a win message
+* Test, test again with false
+* Change condition to check Guess Sum and Product against Code Sum and Product

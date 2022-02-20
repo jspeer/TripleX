@@ -1,0 +1,5 @@
+TripleX Intro
+std::cout << "You are a secret agent breaking into a secure server room";
+std::cout << "You need to enter the correct codes to continue...";
+* Create your own intro messages for your game across two lines of code.
+*Save, compile and run the program.
